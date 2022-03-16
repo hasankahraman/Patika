@@ -1,2 +1,2 @@
 # Patika
-Patika.dev'de yapılan alıştırmaları içeren repository
+A repository that includes patika.dev practises and homeworks.
