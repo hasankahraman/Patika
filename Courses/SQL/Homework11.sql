@@ -21,9 +21,9 @@ UNION ALL
 
 
 (SELECT first_name FROM actor)
-INTERSECT
+INTERSECT ALL
 (SELECT first_name FROM customer);
 
 (SELECT first_name FROM actor)
-EXCEPT
+EXCEPT ALL
 (SELECT first_name FROM customer);
